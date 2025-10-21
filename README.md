@@ -4,6 +4,10 @@
 This repository contains an interactive **Uber Data Analytics Dashboard** built using **Power BI**.  
 It visualizes key metrics about rides, customers, and time-based trends to help understand business performance and improve decision-making.
 
+![Overview Dashboard](Output/U-Overview.png)
+![Time Analysis](Output/U-Time.png)
+![Detail Dashboard](Output/U-Deatil.png)
+
 ---
 
 ## 📋 Project Overview
@@ -88,7 +92,7 @@ All visualizations are available in the [`Output`](./Output) folder.
 | - | ------------------------------- | ----------------------- | ------------------------------------------------------------------- |
 | 1 | **Overview Dashboard**          | `Output/U-Overview.png` | Summary of total rides, fares, and KPIs                             |
 | 2 | **Time Analysis Dashboard**     | `Output/U-Time.png`     | Hourly and daily ride trends with peak time visualization           |
-| 3 | **Detailed Insights Dashboard** | `Output/U-Detail.png`   | Deep-dive into ride-level data such as fare, distance, and duration |
+| 3 | **Detailed Insights Dashboard** | `Output/U-Deatil.png`   | Deep-dive into ride-level data such as fare, distance, and duration |
 
 > 💡 View these images directly on GitHub or explore interactively by opening the `.pbix` file in Power BI.
 
